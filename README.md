@@ -1,4 +1,4 @@
-                                         (TEXTO EM DESENVOLVIMENTO)
+                                         (SERÁ DESENVOLVIDO EM PYTHON PARA MELHOR EXPERIENCIA)
 
 # Cálculo Numérico - Localizacão de Raizes
   Aplicação de Algoritmos para obtenção das raizes de funções continuas dado um interavalo. 3 métodos estão disponíveis para realização dos cálculos das raízes com alto nível de precisão:
