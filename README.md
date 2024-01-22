@@ -1,7 +1,7 @@
                                          (SERÁ DESENVOLVIDO EM PYTHON PARA MELHOR EXPERIENCIA)
 
-# Cálculo Numérico - Localizacão de Raizes
-  Aplicação de Algoritmos para obtenção das raizes de funções continuas dado um interavalo. 3 métodos estão disponíveis para realização dos cálculos das raízes com alto nível de precisão:
+# Métodos Numéricos
+  Algoritmos únicos desenvolvidos para fornecer um conjunto de passoa a passo para os diferentes tipos de métodos numéricos apolicados. O objetivo é fazer com que a maquina lhe forneça os passos seguintes para métodos complexos. O computador descreverá os passos identintico a um gabarito. Mostrando resultado e passo a passo
 
 # Método da Bissecção
 
