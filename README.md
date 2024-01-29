@@ -13,6 +13,15 @@
   * Método de Jacobi
   * Método de Seidel
 
+Falta desenvolver:
+  * Método da Decomposição LU
+  * Método de Lagrange
+  * Método dos Mínimos Quadrados
+  * Regra do Trapézio
+  * Regra de Richardson
+  * Regra de Simpson
+  
+
 `NOTA`: Algumas otimizações ainda precisam ser feitas no projeto, como:
 
 * `Controle de casas decimais`
@@ -25,7 +34,7 @@
  A seguir será mostrar o conjunto de instruções para obter os passos e resultados para cada método:
  
 ### Método da Bissecção
-
+·
 
 
 
