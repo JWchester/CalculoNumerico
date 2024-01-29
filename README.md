@@ -32,7 +32,7 @@ Falta desenvolver:
  A seguir será mostrar o conjunto de instruções para obter os passos e resultados para cada método:
  
 ### Método da Bissecção
-·
+
 
 
 
