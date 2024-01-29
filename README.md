@@ -1,5 +1,3 @@
-                                         (SERÁ DESENVOLVIDO EM PYTHON PARA MELHOR EXPERIENCIA)
-
 # Métodos Numéricos
   Algoritmos únicos desenvolvidos para fornecer um conjunto de passo a passo para os diferentes tipos de métodos numéricos aplicados. O objetivo é fazer com que a maquina lhe forneça os passos seguintes para métodos complexos. O computador descreverá os passos identico a um gabarito, Mostrando resultado e o passo a passo. O projeto está quaase completo. os métodos disponíveis são:
   
