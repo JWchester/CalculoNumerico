@@ -132,6 +132,28 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 <br>
 ...
 
-
-
 ### Método da Falsa Posição(Modificado)
+As Instruções são as mesmas especificadas para o método da bissecção e Falsa Posição
+**1. Inserindo a função de entrada**
+
+<br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+</p>
+
+Figura 1 - Local para inserir função</div>
+
+**2. Inserindo o Intervalo de análise para a função inserida**
+
+</br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bisseca%C3%A7%C3%A3o%202.png"  />
+</p>
+
+Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+
+**3. Exemplos para teste**
+<br>
+...
