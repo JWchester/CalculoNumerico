@@ -166,7 +166,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Newton%201.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
@@ -176,7 +176,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Newton%202.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
@@ -189,17 +189,17 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/secante%201.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 
-**2. Inserindo o ponto inicial**
+**2. Inserindo o intervalo**
 
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Secante%202.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
@@ -212,7 +212,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 <br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Gauss.png"  />
 </p>
 
 Figura 1 - Local para inserir função</div>
@@ -259,20 +259,6 @@ você deve inserir nos locais indicados da seguinte forma:
 `[[a,b,c],[d,e,f],[g,h,i]]` , `[[a],[b],[c]]` (II) <br><br>                                               
 
 
-## Métodos de Gauss
-
-As instruções são as mesmas especificadas para o métododo de Gauss!
-
-**1. Inserindo a matriz dos coeficientes e a matriz resultante**
-
-<br>
-<div align = "center">
-<p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
-</p>
-
-Figura 1 - Local para inserir função</div>
-
 ## Métodos de Jordan
 
 As instruções são as mesmas especificadas para o métododo de Gauss!
@@ -282,7 +268,7 @@ As instruções são as mesmas especificadas para o métododo de Gauss!
 <br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/jordan.png"  />
 </p>
 
 Figura 1 - Local para inserir função</div>
@@ -296,7 +282,7 @@ As instruções são as mesmas especificadas para o métododo de Gauss e o méto
 <br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/jacobi.png"  />
 </p>
 
 Figura 1 - Local para inserir função</div>
@@ -310,7 +296,7 @@ As instruções são as mesmas especificadas para o métododo de Gauss, método 
 <br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Seidel.png"  />
 </p>
 
 Figura 1 - Local para inserir função</div>
