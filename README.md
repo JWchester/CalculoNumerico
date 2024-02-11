@@ -169,7 +169,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
   <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Newton%201.png"  />
 </p>
 
-Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+Figura 1 - Local para inserir função</div>
 
 **2. Inserindo o ponto inicial**
 
@@ -179,7 +179,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
   <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Newton%202.png"  />
 </p>
 
-Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+Figura 1 - Local para inserir o ponto inicial</div>
 
 
 ## Método da Secante
@@ -192,7 +192,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
   <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/secante%201.png"  />
 </p>
 
-Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+Figura 1 - Local para inserir função</div>
 
 **2. Inserindo o intervalo**
 
@@ -215,7 +215,7 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
   <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Gauss.png"  />
 </p>
 
-Figura 1 - Local para inserir função</div>
+Figura 1 - Local para inserir matrizes</div>
 
 Se a matriz de variaveis nxn e a matriz resultante nx1 que você deseja inserir seja:
 
@@ -271,7 +271,7 @@ As instruções são as mesmas especificadas para o métododo de Gauss!
   <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/jordan.png"  />
 </p>
 
-Figura 1 - Local para inserir função</div>
+Figura 1 - Local para inserir matrizes</div>
 
 ## Método de Jacobi
 
@@ -299,5 +299,5 @@ As instruções são as mesmas especificadas para o métododo de Gauss, método 
   <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Seidel.png"  />
 </p>
 
-Figura 1 - Local para inserir função</div>
+Figura 1 - Local para inserir matrizes</div>
 
