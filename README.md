@@ -8,8 +8,8 @@
   * Método da Secante
   * Método de Gauss
   * Método de Jordan
-  * Método de Jacobi
-  * Método de Seidel
+  * Método de Jacobi(ajuste em Latex ainda é necessário)
+  * Método de Seidel((ajuste em Latex ainda é necessário))
 
 Falta desenvolver:
   * Método da Decomposição LU
@@ -88,7 +88,7 @@ $$f(x) = \frac{log_{}(x)}{log_{}(2)} = \log_{2}(x)$$
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bisseca%C3%A7%C3%A3o%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%202.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
@@ -113,7 +113,7 @@ As instruções são as mesmas especificadas para o métododo a Bissecação!
 <br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%201.png"  />
 </p>
 
 Figura 1 - Local para inserir função</div>
@@ -123,7 +123,7 @@ Figura 1 - Local para inserir função</div>
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bisseca%C3%A7%C3%A3o%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%202.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
@@ -139,7 +139,7 @@ As Instruções são as mesmas especificadas para o método da bissecção e Fal
 <br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%201.png"  />
 </p>
 
 Figura 1 - Local para inserir função</div>
@@ -149,7 +149,7 @@ Figura 1 - Local para inserir função</div>
 </br>
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bisseca%C3%A7%C3%A3o%202.png"  />
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
 </p>
 
 Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
@@ -157,3 +157,161 @@ Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
 **3. Exemplos para teste**
 <br>
 ...
+
+
+### Método de Newton
+
+**1. inserindo a função de entrada**
+
+</br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+</p>
+
+Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+
+**2. Inserindo o ponto inicial**
+
+</br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+</p>
+
+Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+
+
+## Método da Secante
+
+**1. inserindo a função de entrada**
+
+</br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+</p>
+
+Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+
+**2. Inserindo o ponto inicial**
+
+</br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Falsa%20Posi%C3%A7%C3%A3o%20Mod%202.png"  />
+</p>
+
+Figura 1 - Local para inserir o ponto inicial e o ponto final do intervalo</div>
+
+
+## Método de Gauss
+
+**1. Inserindo a matriz dos coeficientes e a matriz resultante**
+
+<br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+</p>
+
+Figura 1 - Local para inserir função</div>
+
+Se a matriz de variaveis nxn e a matriz resultante nx1 que você deseja inserir seja:
+
+ $$\ matriz\ dos\ coeficientes\ =\  
+\begin{bmatrix}
+    a & b & c & d \\
+    e & f & g & h \\
+    i & j & k & l \\
+    m & n & o & p \\
+\end{bmatrix}\\\ \ , \\\ matriz\ resultante\begin{bmatrix}
+    a \\
+    b \\
+    c \\
+    d \\
+\end{bmatrix}\\\\\\\ (I)
+\$$
+
+
+<br>
+
+
+ $$\ matriz\ dos\ coeficientes\ =\  
+\begin{bmatrix}
+    a & b & c \\
+    d & e & f \\
+    g & h & i \\
+\end{bmatrix}\\\ \ , \\\ matriz\ resultante\begin{bmatrix}
+    a \\
+    b \\
+    c \\
+\end{bmatrix}\\\\\\\ (II)
+\$$
+
+você deve inserir nos locais indicados da seguinte forma:
+
+`[[a,b,c,d],[e,f,g,h],[i,j,k,l],[m,n,o,p]]` , `[[a],[b],[c],[d]]` (I) <br><br>
+
+
+<br>
+
+`[[a,b,c],[d,e,f],[g,h,i]]` , `[[a],[b],[c]]` (II) <br><br>                                               
+
+
+## Métodos de Gauss
+
+As instruções são as mesmas especificadas para o métododo de Gauss!
+
+**1. Inserindo a matriz dos coeficientes e a matriz resultante**
+
+<br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+</p>
+
+Figura 1 - Local para inserir função</div>
+
+## Métodos de Jordan
+
+As instruções são as mesmas especificadas para o métododo de Gauss!
+
+**1. Inserindo a matriz dos coeficientes e a matriz resultante**
+
+<br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+</p>
+
+Figura 1 - Local para inserir função</div>
+
+## Método de Jacobi
+
+As instruções são as mesmas especificadas para o métododo de Gauss e o método de Jordan!
+
+**1. Inserindo a matriz dos coeficientes e a matriz resultante**
+
+<br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+</p>
+
+Figura 1 - Local para inserir função</div>
+
+## Método de Seidel
+
+As instruções são as mesmas especificadas para o métododo de Gauss, método de Jordan E Jacobi!
+
+**1. Inserindo a matriz dos coeficientes e a matriz resultante**
+
+<br>
+<div align = "center">
+<p align="center">
+  <img src="https://github.com/JWchester/CalculoNumerico/blob/main/docs/Bissec%C3%A7%C3%A3o%201.png"  />
+</p>
+
+Figura 1 - Local para inserir função</div>
+
