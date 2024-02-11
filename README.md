@@ -30,7 +30,7 @@ Falta desenvolver:
   
 # Instruções
 
- A seguir será mostrar o conjunto de instruções para obter os passos e resultados para cada método:
+ A seguir será mostrado o conjunto de instruções para obter os passos e resultados para cada método:
 
  `NOTA`: USAR GOOGLE COLAB PARA EVITAR QUALQUER PROBLEMA COM A FORMATAÇÃO LATEX
  
